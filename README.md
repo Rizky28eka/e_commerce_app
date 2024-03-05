@@ -22,25 +22,3 @@ This Flutter eCommerce app is a comprehensive and feature-rich solution for buil
 
 
 
-
-## Screenshots
-![Screenshot_1](https://github.com/winter071203/flutter_ecommerce_app/blob/main/assets/images/githubs/1.png)
-![Screenshot_2](https://github.com/winter071203/flutter_ecommerce_app/blob/main/assets/images/githubs/2.png)
-![Screenshot_3](https://github.com/winter071203/flutter_ecommerce_app/blob/main/assets/images/githubs/3.png)
-![Screenshot_4](https://github.com/winter071203/flutter_ecommerce_app/blob/main/assets/images/githubs/4.png)
-![Screenshot_5](https://github.com/winter071203/flutter_ecommerce_app/blob/main/assets/images/githubs/5.png)
-![Screenshot_6](https://github.com/winter071203/flutter_ecommerce_app/blob/main/assets/images/githubs/6.png)
-![Screenshot_7](https://github.com/winter071203/flutter_ecommerce_app/blob/main/assets/images/githubs/7.png)
-![Screenshot_8](https://github.com/winter071203/flutter_ecommerce_app/blob/main/assets/images/githubs/8.png)
-![Screenshot_9](https://github.com/winter071203/flutter_ecommerce_app/blob/main/assets/images/githubs/9.png)
-![Screenshot_10](https://github.com/winter071203/flutter_ecommerce_app/blob/main/assets/images/githubs/10.png)
-
-
-### Development Notice
-
-1- Clone project with https://github.com/winter071203/flutter_ecommerce_app.git
-
-2- Run **flutter pub get** in terminal
-
-3- Run flutter run in terminal
-# e_commerce_app
