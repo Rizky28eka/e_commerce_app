@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370516971358",
+    "project_id": "ecommerceapp-931eb",
+    "storage_bucket": "ecommerceapp-931eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370516971358:android:3688321e3d9c98f81209cf",
+        "android_client_info": {
+          "package_name": "com.example.winter_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYj5kQMwC3zSoJYj5AFrQMtKiob7K4n6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
